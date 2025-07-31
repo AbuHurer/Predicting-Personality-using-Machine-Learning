@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+    Ambivert       0.99      0.99      0.99      1261
+   Extrovert       1.00      0.99      1.00      1426
+   Introvert       1.00      1.00      1.00      1313
+
+    accuracy                           0.99      4000
+   macro avg       0.99      0.99      0.99      4000
+weighted avg       0.99      0.99      0.99      4000
